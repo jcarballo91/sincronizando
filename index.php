@@ -1,1 +1,3 @@
-//This is another comment to check the conflicts.
+
+//This is a comment.
+
