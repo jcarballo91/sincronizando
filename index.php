@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 //This is a comment.
 
@@ -14,3 +15,12 @@
     </body>
     </html>
     </echo>
+=======
+ul>li*3
+<!-- Converts to: -->
+<ul>
+   <li></li>
+   <li></li>
+   <li></li>
+</ul>
+>>>>>>> 4f423c8722bf2f4ff246a1856c899994437bc7fe
